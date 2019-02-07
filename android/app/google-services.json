@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1025858187095",
+    "firebase_url": "https://happy-todolist.firebaseio.com",
+    "project_id": "happy-todolist",
+    "storage_bucket": "happy-todolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025858187095:android:8e014576d644f4cc",
+        "android_client_info": {
+          "package_name": "com.example.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025858187095-lf63m797s9oqq55rg2ae3vgt1e0h5add.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCraJZOq2gvmXc4ncOzG2rGgY8_yUT5ORA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
